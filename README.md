@@ -6,6 +6,7 @@
 3. Minimize the number of media queries.
 
 ##Link to Deployed Webpage
-
+https://megangerwick.github.io/02-CSS-Bootstrap/
 
 ##Screenshot of Deployed Homepage 
+![homepage](https://user-images.githubusercontent.com/69534417/94206982-4a152e00-fe8c-11ea-8638-f3c7dc6001bc.PNG)
